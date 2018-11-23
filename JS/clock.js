@@ -37,9 +37,10 @@ class Clock {
       this.minutes = 0;
     }
     // 2. Call printTime.
-    // console.log(this);
     this.printTime();
   }
 }
 
 const clock = new Clock();
+
+
